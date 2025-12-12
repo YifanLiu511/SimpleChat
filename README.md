@@ -50,8 +50,6 @@ python chat_tool.py
 
 程序启动后，将显示以下界面：
 
-![QQ20251211-063454](C:\Users\Administrator\Desktop\计算机网络\实验\实验六\QQ20251211-063454.jpg)
-
 1. **左侧面板** - 在线成员列表
    
    - 显示当前在线的聊天组成员
@@ -162,11 +160,10 @@ pip install -r requirements-dev.txt
 
 - 项目主页：https://github.com/YifanLiu511/SimpleChat
 - 问题反馈：https://github.com/YifanLiu511/SimpleChat/issues
-- 邮箱：chunhui163@qq.com
 
 ## 更新日志
 
-### v1.0.0 (2024-01-01)
+### v1.0.0 (2025-12-01)
 
 - 初始版本发布
 - 实现基本聊天功能
